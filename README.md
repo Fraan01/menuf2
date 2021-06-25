@@ -1,6 +1,6 @@
 # Menu F2
 
-Menu en la tecla "F2" que te permite, ver tu id, ver tu inventario, documentos (ver y mostrar dni, licencia de armas y carnet de conducir), ver tus facturas, el historial de facturas, ver locales disponibles, personal disponible (EMS, Mecánico, Policía y Taxi), ver atracos disponibles y poner el modo cinemática. 
+Menu en la tecla "F2" que te permite, ver tu id, ver tu inventario, documentos (ver y mostrar dni, licencia de armas y carnet de conducir), ver tus facturas, el historial de facturas, ver locales disponibles, personal disponible (EMS, Mecánico, Policía y Taxi), ver atracos disponibles, poner el modo cinemática e incluso borrar el chat si esta muy concurrido. 
 
 Necesario importar la SQL, en el se añade una tabla de historial de facturas. 
 Posee 2 dependecias, son jsfour-idcard y SimpleCinematic.
