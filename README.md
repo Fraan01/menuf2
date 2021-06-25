@@ -15,3 +15,5 @@ El tamaño de las bandas del modo cinemática también es modificable desde el s
 Cualquier duda/problema no dude en escribirme --> ! Fran#1411
 
 :)
+
+![image](https://user-images.githubusercontent.com/86493821/123475526-cc897480-d5fb-11eb-8053-54ecd6f7610e.png)
