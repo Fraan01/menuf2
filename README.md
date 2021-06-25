@@ -17,3 +17,12 @@ Cualquier duda/problema no dude en escribirme --> ! Fran#1411
 :)
 
 ![image](https://user-images.githubusercontent.com/86493821/123475526-cc897480-d5fb-11eb-8053-54ecd6f7610e.png)
+
+![image](https://user-images.githubusercontent.com/86493821/123475851-47eb2600-d5fc-11eb-9801-29310aeb7563.png)
+
+![image](https://user-images.githubusercontent.com/86493821/123475865-4c174380-d5fc-11eb-8e77-67d99ae4efc5.png)
+
+![image](https://user-images.githubusercontent.com/86493821/123475887-520d2480-d5fc-11eb-95c8-ae1b688fffed.png)
+
+![image](https://user-images.githubusercontent.com/86493821/123475913-5cc7b980-d5fc-11eb-90a0-89c4e162cc49.png)
+
